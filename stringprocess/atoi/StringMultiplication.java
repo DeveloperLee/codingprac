@@ -1,4 +1,4 @@
-package stringprocess;
+package stringprocess.atoi;
 
 /**
  * Created by EricLee on 10/17/16.
